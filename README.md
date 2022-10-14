@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saydou231
-- 👀 I’m interested in <span>Web Developement</span>
+- 👀 I’m interested in <b>Web Developement</bn>
 - 🌱 I’m currently learning React at Frontend Master's
 - 💞️ I’m looking to collaborate on first timers
 - 📫 How to reach me DM
