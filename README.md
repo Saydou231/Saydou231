@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saydou231
-- 👀 I’m interested in <b>Web Developement</bn>
-- 🌱 I’m currently learning React at Frontend Master's
-- 💞️ I’m looking to collaborate on first timers
+- 👀 I’m interested in <b>Web Developement</b>
+- 🌱 I’m currently learning <b>React</b> at <i>Frontend Master's</i>
+  - 💞️ I’m looking to collaborate on <i>first timers only</i>
 - 📫 How to reach me DM
 
 <!---
